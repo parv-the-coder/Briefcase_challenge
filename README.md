@@ -1,7 +1,8 @@
 # Briefcase Challenge
 
 This repository contains a program that simulates a briefcase challenge, where the user needs to input a specific combination to unlock the briefcase and access sensitive information. The program is written in C language.
-Instructions:
+
+# Instructions:
 
    1) Upon running the program, you will be prompted to accept the challenge as Agent Vinod.
 
@@ -15,7 +16,7 @@ Instructions:
 
    6) After completing the challenge, the program will display a success message if the briefcase was unlocked or a message stating that you left the mission if you chose not to accept the challenge.
 
-Contributing
+# Contributing
 
 If you would like to contribute to this project, you can follow these steps:
 
