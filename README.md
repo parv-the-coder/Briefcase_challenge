@@ -1,4 +1,4 @@
-#Briefcase Challenge
+# Briefcase Challenge
 
 This repository contains a program that simulates a briefcase challenge, where the user needs to input a specific combination to unlock the briefcase and access sensitive information. The program is written in C language.
 Instructions:
